@@ -1,0 +1,44 @@
+本仓库采用双许可：
+
+1) 图纸、文档、3D 模型等非代码内容
+   CC BY-NC-SA 4.0（署名 - 非商业性使用 - 相同方式共享）
+   https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh
+
+   你可以自由地复制、修改、再发布，但需要：
+   - 署名（注明来自本仓库）
+   - 不得用于商业目的（量产销售需另行授权）
+   - 修改后的作品需以相同许可发布
+
+2) 生成脚本（生成脚本/ 目录下的 .py 与 .js 文件）
+   MIT License
+
+   Copyright (c) 2025
+
+   Permission is hereby granted, free of charge, to any person obtaining a copy
+   of this software and associated documentation files (the "Software"), to deal
+   in the Software without restriction, including without limitation the rights
+   to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+   copies of the Software, and to permit persons to whom the Software is
+   furnished to do so, subject to the following conditions:
+
+   The above copyright notice and this permission notice shall be included in all
+   copies or substantial portions of the Software.
+
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+   AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+   LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+   OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+   SOFTWARE.
+
+--------------------------------------------------------------------
+免责声明 / Disclaimer
+
+本设计参考 Marshall 1960A 的公开外形尺寸（760×760×355mm），
+内部结构为便于手工复现做了重新设计，与 Marshall Amplification 无关，
+也不是原厂图纸。"Marshall" 是其注册商标，自制箱体请勿使用原厂 LOGO 出售。
+
+音箱箱体涉及高压/大功率音频，喇叭阻抗必须与功放匹配（16Ω/8Ω/4Ω），
+因制作或使用不当造成的设备损坏与人身伤害，作者不承担责任。
+链接前请务必确认功放与箱体的阻抗匹配。

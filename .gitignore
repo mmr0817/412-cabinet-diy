@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# 临时文件
+*.tmp
+/tmp/
+图纸/_打印页.html
+
+# 编辑器
+.vscode/
+.idea/

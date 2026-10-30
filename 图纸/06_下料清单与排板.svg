@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect x="0" y="0" width="420" height="297" fill="#ffffff"/>
+
+<rect x="3.2" y="3.2" width="413.6" height="290.6" rx="0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="4.8" y="4.8" width="410.4" height="287.4" rx="0" fill="none" stroke="#000" stroke-width="0.22"/>
+<rect x="296.8" y="268.8" width="120" height="25" rx="0" fill="#ffffff" stroke="#000" stroke-width="0.35"/>
+<line x1="296.8" y1="277.4" x2="416.8" y2="277.4" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="296.8" y1="285.8" x2="416.8" y2="285.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="336.8" y1="277.4" x2="336.8" y2="293.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="390.8" y1="285.8" x2="390.8" y2="293.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<text x="299.8" y="275" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="4.0" fill="#000" text-anchor="start" font-weight="bold">412 电吉他箱体 · DIY 施工图</text>
+<text x="299.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">图名</text>
+<text x="299.8" y="291" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.5" fill="#000" text-anchor="start" font-weight="bold">下料清单与排板</text>
+<text x="339.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">图号</text>
+<text x="339.3" y="290.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.4" fill="#000" text-anchor="start" font-weight="normal">06 / 08</text>
+<text x="393.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">比例</text>
+<text x="393.3" y="290.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#000" text-anchor="start" font-weight="normal">1:14</text>
+<text x="9.2" y="10.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#808080" text-anchor="start" font-weight="normal">全部板件尺寸（单位 mm）· 直接发给板材商家</text>
+<rect x="18" y="30" width="241" height="86" rx="0" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<rect x="18" y="30" width="241" height="8.6" rx="0" fill="#eeeeee" stroke="#1b1b1b" stroke-width="0.35"/>
+<line x1="18" y1="38.6" x2="259" y2="38.6" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="47.2" x2="259" y2="47.2" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="55.8" x2="259" y2="55.8" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="64.4" x2="259" y2="64.4" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="73" x2="259" y2="73" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="81.6" x2="259" y2="81.6" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="90.2" x2="259" y2="90.2" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="98.8" x2="259" y2="98.8" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="18" y1="107.4" x2="259" y2="107.4" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="27" y1="30" x2="27" y2="116" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="67" y1="30" x2="67" y2="116" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="79" y1="30" x2="79" y2="116" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="119" y1="30" x2="119" y2="116" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="197" y1="30" x2="197" y2="116" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="19.6" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="bold">#</text>
+<text x="28.6" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="bold">名称</text>
+<text x="68.6" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="bold">数量</text>
+<text x="80.6" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="bold">材料</text>
+<text x="120.6" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="bold">尺寸 (mm)</text>
+<text x="198.6" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="bold">加工备注</text>
+<text x="19.6" y="44.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">1</text>
+<text x="28.6" y="44.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">侧板</text>
+<text x="68.6" y="44.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">2</text>
+<text x="80.6" y="44.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 桦木多层板</text>
+<text x="120.6" y="44.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">760 × 355（底）/ 295（顶）梯形</text>
+<text x="198.6" y="44.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">前边斜切 4.51°</text>
+<text x="19.6" y="53.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">2</text>
+<text x="28.6" y="53.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">顶板</text>
+<text x="68.6" y="53.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">1</text>
+<text x="80.6" y="53.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 桦木多层板</text>
+<text x="120.6" y="53.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">724 × 295</text>
+<text x="198.6" y="53.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">前口可倒 1.4mm 斜口</text>
+<text x="19.6" y="61.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">3</text>
+<text x="28.6" y="61.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">底板</text>
+<text x="68.6" y="61.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">1</text>
+<text x="80.6" y="61.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 桦木多层板</text>
+<text x="120.6" y="61.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">724 × 355</text>
+<text x="198.6" y="61.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal"></text>
+<text x="19.6" y="70.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">4</text>
+<text x="28.6" y="70.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">后板</text>
+<text x="68.6" y="70.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">1</text>
+<text x="80.6" y="70.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 桦木多层板</text>
+<text x="120.6" y="70.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">724 × 724</text>
+<text x="198.6" y="70.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">开插孔板孔</text>
+<text x="19.6" y="79" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">5</text>
+<text x="28.6" y="79" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">喇叭障板</text>
+<text x="68.6" y="79" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">1</text>
+<text x="80.6" y="79" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 桦木多层板</text>
+<text x="120.6" y="79" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">724 × 726.3</text>
+<text x="198.6" y="79" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">自开 4×Ø283 + 32×Ø6.5 + 2×Ø10</text>
+<text x="19.6" y="87.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">6</text>
+<text x="28.6" y="87.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">网罩框</text>
+<text x="68.6" y="87.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">1</text>
+<text x="80.6" y="87.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 桦木多层板</text>
+<text x="120.6" y="87.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">720 × 722.3</text>
+<text x="198.6" y="87.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">自开 4×Ø316</text>
+<text x="19.6" y="96.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">7</text>
+<text x="28.6" y="96.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">障板托条</text>
+<text x="68.6" y="96.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">2</text>
+<text x="80.6" y="96.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 边角料开条</text>
+<text x="120.6" y="96.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18 × 18 × 688</text>
+<text x="198.6" y="96.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal"></text>
+<text x="19.6" y="104.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">8</text>
+<text x="28.6" y="104.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">后板托条</text>
+<text x="68.6" y="104.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">2</text>
+<text x="80.6" y="104.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 边角料开条</text>
+<text x="120.6" y="104.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18 × 18 × 724</text>
+<text x="198.6" y="104.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">竖</text>
+<text x="19.6" y="113.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">9</text>
+<text x="28.6" y="113.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">后板托条</text>
+<text x="68.6" y="113.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">2</text>
+<text x="80.6" y="113.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18mm 边角料开条</text>
+<text x="120.6" y="113.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">18 × 18 × 688</text>
+<text x="198.6" y="113.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.7" fill="#1b1b1b" text-anchor="start" font-weight="normal">横</text>
+<text x="18" y="124" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.5999999999999996" fill="#1b1b1b" text-anchor="start" font-weight="bold">说明</text>
+<text x="18" y="129.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">净用料约 2.6 m²（含托条 2.7 m²）；因板件多为 724 宽，</text>
+<text x="18" y="134.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">单张 1220×2440 排不下，建议买 2 张（第二张余料开托条/做靠模）。</text>
+<text x="18" y="139" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal"></text>
+<text x="18" y="143.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">下单话术（可直接复制给商家）：</text>
+<text x="18" y="148.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">“18mm 桦木多层板（E0 级），按尺寸开料，公差 ±1mm，</text>
+<text x="18" y="152.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">  侧板 2 件为梯形：760 高，底边 355，顶边 295，前边斜切，”</text>
+<text x="18" y="157.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">  其余为矩形，四角切 90°，不要开孔。”</text>
+<text x="18" y="162" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal"></text>
+<text x="18" y="166.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="start" font-weight="normal">托条可用边角料自己开：18×18 木条共 6 根（长 688 四根、724 两根）。</text>
+<polygon points="300,40 387.14,40 387.14,214.29 300,214.29" fill="none" stroke="#1b1b1b" stroke-width="0.5" stroke-linejoin="round"/>
+<polygon points="300,40 351.71,40 351.71,91.71 300,91.71" fill="#e8d3b4" stroke="#1b1b1b" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="325.86" y="67.06" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="middle" font-weight="normal">后板</text>
+<polygon points="300,91.71 351.71,91.71 351.71,143.86 300,143.86" fill="#dcb488" stroke="#1b1b1b" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="325.86" y="118.99" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="middle" font-weight="normal">障板</text>
+<polygon points="300,143.86 351.71,143.86 351.71,195.43 300,195.43" fill="#e8cdaa" stroke="#1b1b1b" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="325.86" y="170.84" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="middle" font-weight="normal">网罩框</text>
+<polygon points="351.71,40 377.07,40 377.07,94.29 351.71,94.29" fill="#c99a68" stroke="#1b1b1b" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="364.39" y="68.34" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="middle" font-weight="normal">侧板</text>
+<polygon points="351.71,94.29 377.07,94.29 377.07,148.57 351.71,148.57" fill="#c99a68" stroke="#1b1b1b" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="364.39" y="122.63" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="middle" font-weight="normal">侧板</text>
+<polygon points="351.71,148.57 372.79,148.57 372.79,200.29 351.71,200.29" fill="#d3a97a" stroke="#1b1b1b" stroke-width="0.35" stroke-linejoin="round"/>
+<text x="362.25" y="175.63" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="middle" font-weight="normal">顶板</text>
+<text x="343.57" y="217" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.6" fill="#808080" text-anchor="middle" font-weight="normal">第 1 张 1220 × 2440（1:14）</text>
+<text x="292" y="224" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#808080" text-anchor="start" font-weight="normal">第 2 张：底板 724×355 + 6 根托条</text>
+<text x="292" y="230" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#808080" text-anchor="start" font-weight="normal">（余料可做靠模/加强条）</text>
+</svg>

@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect x="0" y="0" width="420" height="297" fill="#ffffff"/>
+
+<rect x="3.2" y="3.2" width="413.6" height="290.6" rx="0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="4.8" y="4.8" width="410.4" height="287.4" rx="0" fill="none" stroke="#000" stroke-width="0.22"/>
+<rect x="296.8" y="268.8" width="120" height="25" rx="0" fill="#ffffff" stroke="#000" stroke-width="0.35"/>
+<line x1="296.8" y1="277.4" x2="416.8" y2="277.4" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="296.8" y1="285.8" x2="416.8" y2="285.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="336.8" y1="277.4" x2="336.8" y2="293.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="390.8" y1="285.8" x2="390.8" y2="293.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<text x="299.8" y="275" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="4.0" fill="#000" text-anchor="start" font-weight="bold">412 电吉他箱体 · DIY 施工图</text>
+<text x="299.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">图名</text>
+<text x="299.8" y="291" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.5" fill="#000" text-anchor="start" font-weight="bold">喇叭障板</text>
+<text x="339.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">图号</text>
+<text x="339.3" y="290.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.4" fill="#000" text-anchor="start" font-weight="normal">04 / 08</text>
+<text x="393.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">比例</text>
+<text x="393.3" y="290.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#000" text-anchor="start" font-weight="normal">1:4 / 1:2</text>
+<text x="9.2" y="10.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#808080" text-anchor="start" font-weight="normal">18mm 桦木多层板 · 斜置 4.51°</text>
+<polygon points="42,200 223,200 223,18.44 42,18.44" fill="none" stroke="#1b1b1b" stroke-width="0.55" stroke-linejoin="round"/>
+<circle cx="90" cy="151.85" r="35.38" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<circle cx="90" cy="151.85" r="37.12" fill="none" stroke="#808080" stroke-width="0.2" stroke-dasharray="4,1.5"/>
+<circle cx="90" cy="114.73" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="63.75" cy="125.6" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="52.88" cy="151.85" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="63.75" cy="178.1" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="90" cy="188.98" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="116.25" cy="178.1" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="127.12" cy="151.85" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="116.25" cy="125.6" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<line x1="50" y1="151.85" x2="130" y2="151.85" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="90" y1="111.85" x2="90" y2="191.85" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="175" cy="151.85" r="35.38" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<circle cx="175" cy="151.85" r="37.12" fill="none" stroke="#808080" stroke-width="0.2" stroke-dasharray="4,1.5"/>
+<circle cx="175" cy="114.73" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="148.75" cy="125.6" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="137.88" cy="151.85" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="148.75" cy="178.1" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="175" cy="188.98" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="201.25" cy="178.1" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="212.12" cy="151.85" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="201.25" cy="125.6" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<line x1="135" y1="151.85" x2="215" y2="151.85" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="175" y1="111.85" x2="175" y2="191.85" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="90" cy="66.59" r="35.38" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<circle cx="90" cy="66.59" r="37.12" fill="none" stroke="#808080" stroke-width="0.2" stroke-dasharray="4,1.5"/>
+<circle cx="90" cy="29.46" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="63.75" cy="40.33" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="52.88" cy="66.59" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="63.75" cy="92.84" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="90" cy="103.71" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="116.25" cy="92.84" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="127.12" cy="66.59" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="116.25" cy="40.33" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<line x1="50" y1="66.59" x2="130" y2="66.59" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="90" y1="26.59" x2="90" y2="106.59" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="175" cy="66.59" r="35.38" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<circle cx="175" cy="66.59" r="37.12" fill="none" stroke="#808080" stroke-width="0.2" stroke-dasharray="4,1.5"/>
+<circle cx="175" cy="29.46" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="148.75" cy="40.33" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="137.88" cy="66.59" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="148.75" cy="92.84" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="175" cy="103.71" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="201.25" cy="92.84" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="212.12" cy="66.59" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<circle cx="201.25" cy="40.33" r="0.96" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.3"/>
+<line x1="135" y1="66.59" x2="215" y2="66.59" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="175" y1="26.59" x2="175" y2="106.59" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="127" cy="109.22" r="1.25" fill="#ffffff" stroke="#c0392b" stroke-width="0.35"/>
+<circle cx="138" cy="109.22" r="1.25" fill="#ffffff" stroke="#c0392b" stroke-width="0.35"/>
+<circle cx="50" cy="191.72" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="47" y1="191.72" x2="53" y2="191.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="50" y1="188.72" x2="50" y2="194.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="50" cy="26.72" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="47" y1="26.72" x2="53" y2="26.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="50" y1="23.72" x2="50" y2="29.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="132.5" cy="191.72" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="129.5" y1="191.72" x2="135.5" y2="191.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="132.5" y1="188.72" x2="132.5" y2="194.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="132.5" cy="26.72" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="129.5" y1="26.72" x2="135.5" y2="26.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="132.5" y1="23.72" x2="132.5" y2="29.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="215" cy="191.72" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="212" y1="191.72" x2="218" y2="191.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="215" y1="188.72" x2="215" y2="194.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="215" cy="26.72" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="212" y1="26.72" x2="218" y2="26.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="215" y1="23.72" x2="215" y2="29.72" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="50" cy="109.22" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="47" y1="109.22" x2="53" y2="109.22" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="50" y1="106.22" x2="50" y2="112.22" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<circle cx="215" cy="109.22" r="2" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<line x1="212" y1="109.22" x2="218" y2="109.22" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<line x1="215" y1="106.22" x2="215" y2="112.22" stroke="#0b5fa5" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="132.5" y="208" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.4" fill="#1b1b1b" text-anchor="middle" font-weight="bold">喇叭障板（展开图，按平面下料）</text>
+<line x1="42" y1="27" x2="42" y2="21.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="90" y1="27" x2="90" y2="21.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="42" y1="24" x2="90" y2="24" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="42,24 44,23.4 44,24.6" fill="#0b5fa5"/>
+<polygon points="90,24 88,24.6 88,23.4" fill="#0b5fa5"/>
+<text x="66" y="22.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal">192</text>
+<line x1="90" y1="27" x2="90" y2="21.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="175" y1="27" x2="175" y2="21.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="90" y1="24" x2="175" y2="24" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="90,24 92,23.4 92,24.6" fill="#0b5fa5"/>
+<polygon points="175,24 173,24.6 173,23.4" fill="#0b5fa5"/>
+<text x="132.5" y="22.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal">340</text>
+<line x1="175" y1="27" x2="175" y2="21.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="223" y1="27" x2="223" y2="21.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="175" y1="24" x2="223" y2="24" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="175,24 177,23.4 177,24.6" fill="#0b5fa5"/>
+<polygon points="223,24 221,24.6 221,23.4" fill="#0b5fa5"/>
+<text x="199" y="22.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal">192</text>
+<line x1="42" y1="201" x2="42" y2="217.6" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="223" y1="201" x2="223" y2="217.6" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="42" y1="215" x2="223" y2="215" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="42,215 44,214.4 44,215.6" fill="#0b5fa5"/>
+<polygon points="223,215 221,215.6 221,214.4" fill="#0b5fa5"/>
+<text x="132.5" y="213.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal">724</text>
+<line x1="41" y1="151.85" x2="30.4" y2="151.85" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="41" y1="200" x2="30.4" y2="200" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="33" y1="151.85" x2="33" y2="200" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="33,151.85 33.6,153.85 32.4,153.85" fill="#0b5fa5"/>
+<polygon points="33,200 32.4,198 33.6,198" fill="#0b5fa5"/>
+<text x="31.6" y="175.93" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal" transform="rotate(-90 31.6 175.93)">192.6</text>
+<line x1="41" y1="66.59" x2="30.4" y2="66.59" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="41" y1="151.85" x2="30.4" y2="151.85" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="33" y1="66.59" x2="33" y2="151.85" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="33,66.59 33.6,68.59 32.4,68.59" fill="#0b5fa5"/>
+<polygon points="33,151.85 32.4,149.85 33.6,149.85" fill="#0b5fa5"/>
+<text x="31.6" y="109.22" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal" transform="rotate(-90 31.6 109.22)">341.1</text>
+<line x1="41" y1="28" x2="30.4" y2="28" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="41" y1="66.59" x2="30.4" y2="66.59" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="33" y1="28" x2="33" y2="66.59" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="33,28 33.6,30 32.4,30" fill="#0b5fa5"/>
+<polygon points="33,66.59 32.4,64.59 33.6,64.59" fill="#0b5fa5"/>
+<text x="31.6" y="47.29" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal" transform="rotate(-90 31.6 47.29)">192.6</text>
+<line x1="223" y1="28" x2="232.6" y2="28" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="223" y1="200" x2="232.6" y2="200" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="230" y1="28" x2="230" y2="200" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="230,28 230.6,30 229.4,30" fill="#0b5fa5"/>
+<polygon points="230,200 229.4,198 230.6,198" fill="#0b5fa5"/>
+<text x="233" y="114" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal" transform="rotate(-90 233 114)">726.3</text>
+<text x="18" y="228" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.6" fill="#808080" text-anchor="start" font-weight="normal">开孔：4 × Ø283 喇叭孔　·　Ø297 螺孔圆上 8 × Ø6.5（共 32）　·　2 × Ø10 过线孔（红）</text>
+<text x="18" y="235" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.6" fill="#808080" text-anchor="start" font-weight="normal">端面：上下两端倒 4.51° 斜口（约 1.4mm），保证与顶板/底板贴合。</text>
+<circle cx="330" cy="170" r="63.2" fill="none" stroke="#808080" stroke-width="0.3" stroke-dasharray="4,2"/>
+<circle cx="330" cy="170" r="56.6" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<circle cx="330" cy="170" r="59.4" fill="none" stroke="#808080" stroke-width="0.25" stroke-dasharray="4,1.5"/>
+<circle cx="330" cy="110.6" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="288" cy="128" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="270.6" cy="170" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="288" cy="212" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="330" cy="229.4" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="372" cy="212" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="389.4" cy="170" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<circle cx="372" cy="128" r="1.4" fill="#ffffff" stroke="#1b1b1b" stroke-width="0.35"/>
+<line x1="258" y1="170" x2="402" y2="170" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="330" y1="98" x2="330" y2="242" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="288.04" cy="128.04" r="0.5" fill="#1b1b1b"/>
+<line x1="288.04" y1="128.04" x2="262" y2="112" stroke="#1b1b1b" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="261.2" y="111" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.5" fill="#1b1b1b" text-anchor="end" font-weight="normal">8 × Ø6.5</text>
+<circle cx="301.68" cy="219" r="0.5" fill="#1b1b1b"/>
+<line x1="301.68" y1="219" x2="250" y2="232" stroke="#1b1b1b" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="249.2" y="231" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.8" fill="#1b1b1b" text-anchor="end" font-weight="normal">Ø283</text>
+<circle cx="361.64" cy="115.24" r="0.5" fill="#808080"/>
+<line x1="361.64" y1="115.24" x2="362" y2="96" stroke="#808080" stroke-width="0.2" stroke-linecap="butt"/>
+<text x="362.8" y="95" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.6" fill="#808080" text-anchor="start" font-weight="normal">Ø316</text>
+<text x="330" y="88" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#1b1b1b" text-anchor="middle" font-weight="bold">喇叭孔详图 1:2.5</text>
+<text x="248" y="26" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.55" fill="#1b1b1b" text-anchor="start" font-weight="bold">加工说明</text>
+<text x="248" y="31.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 平板下料 724 × 726.3；装入箱体后因</text>
+<text x="248" y="36" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">　4.51° 斜置，垂直方向占高 724。</text>
+<text x="248" y="40.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 上下端面倒 4.51° 斜口（约 1.4mm），</text>
+<text x="248" y="44.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">　否则会顶到顶板 / 底板。</text>
+<text x="248" y="49.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 螺孔角度务必按到手喇叭实物核对：</text>
+<text x="248" y="53.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">　先用纸板做纸样套在喇叭背面比孔位。</text>
+<text x="248" y="58" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">• T 型螺母从背面敲入（M5 或 10-32），</text>
+<text x="248" y="62.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">　便于反复拆装喇叭。</text>
+<text x="248" y="66.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.75" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 障板与侧板、顶底板接缝必须打胶密封。</text>
+</svg>

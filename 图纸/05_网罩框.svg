@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="420mm" height="297mm" viewBox="0 0 420 297">
+<rect x="0" y="0" width="420" height="297" fill="#ffffff"/>
+
+<rect x="3.2" y="3.2" width="413.6" height="290.6" rx="0" fill="none" stroke="#000" stroke-width="0.5"/>
+<rect x="4.8" y="4.8" width="410.4" height="287.4" rx="0" fill="none" stroke="#000" stroke-width="0.22"/>
+<rect x="296.8" y="268.8" width="120" height="25" rx="0" fill="#ffffff" stroke="#000" stroke-width="0.35"/>
+<line x1="296.8" y1="277.4" x2="416.8" y2="277.4" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="296.8" y1="285.8" x2="416.8" y2="285.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="336.8" y1="277.4" x2="336.8" y2="293.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<line x1="390.8" y1="285.8" x2="390.8" y2="293.8" stroke="#000" stroke-width="0.28" stroke-linecap="butt"/>
+<text x="299.8" y="275" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="4.0" fill="#000" text-anchor="start" font-weight="bold">412 电吉他箱体 · DIY 施工图</text>
+<text x="299.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">图名</text>
+<text x="299.8" y="291" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.5" fill="#000" text-anchor="start" font-weight="bold">网罩框</text>
+<text x="339.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">图号</text>
+<text x="339.3" y="290.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.4" fill="#000" text-anchor="start" font-weight="normal">05 / 08</text>
+<text x="393.3" y="283.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="start" font-weight="normal">比例</text>
+<text x="393.3" y="290.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#000" text-anchor="start" font-weight="normal">1:4</text>
+<text x="9.2" y="10.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.2" fill="#808080" text-anchor="start" font-weight="normal">18mm 桦木多层板 · 撑喇叭网布</text>
+<polygon points="45,205 225,205 225,24.44 45,24.44" fill="none" stroke="#1b1b1b" stroke-width="0.55" stroke-linejoin="round"/>
+<circle cx="92.5" cy="157.35" r="39.5" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<line x1="50.5" y1="157.35" x2="134.5" y2="157.35" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="92.5" y1="115.35" x2="92.5" y2="199.35" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="177.5" cy="157.35" r="39.5" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<line x1="135.5" y1="157.35" x2="219.5" y2="157.35" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="177.5" y1="115.35" x2="177.5" y2="199.35" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="92.5" cy="72.09" r="39.5" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<line x1="50.5" y1="72.09" x2="134.5" y2="72.09" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="92.5" y1="30.09" x2="92.5" y2="114.09" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="177.5" cy="72.09" r="39.5" fill="none" stroke="#1b1b1b" stroke-width="0.5"/>
+<line x1="135.5" y1="72.09" x2="219.5" y2="72.09" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<line x1="177.5" y1="30.09" x2="177.5" y2="114.09" stroke="#c9c9c9" stroke-width="0.18" stroke-linecap="butt" stroke-dasharray="8,2,1.5,2"/>
+<circle cx="52.5" cy="197.5" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="52.5" cy="197.5" r="0.35" fill="#0b5fa5"/>
+<circle cx="52.5" cy="31.94" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="52.5" cy="31.94" r="0.35" fill="#0b5fa5"/>
+<circle cx="135" cy="197.5" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="135" cy="197.5" r="0.35" fill="#0b5fa5"/>
+<circle cx="135" cy="31.94" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="135" cy="31.94" r="0.35" fill="#0b5fa5"/>
+<circle cx="217.5" cy="197.5" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="217.5" cy="197.5" r="0.35" fill="#0b5fa5"/>
+<circle cx="217.5" cy="31.94" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="217.5" cy="31.94" r="0.35" fill="#0b5fa5"/>
+<circle cx="52.5" cy="114.72" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="52.5" cy="114.72" r="0.35" fill="#0b5fa5"/>
+<circle cx="217.5" cy="114.72" r="1.75" fill="none" stroke="#0b5fa5" stroke-width="0.3"/>
+<circle cx="217.5" cy="114.72" r="0.35" fill="#0b5fa5"/>
+<text x="135" y="213" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.4" fill="#1b1b1b" text-anchor="middle" font-weight="bold">网罩框（贴布前）</text>
+<line x1="45" y1="206" x2="45" y2="222.6" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="225" y1="206" x2="225" y2="222.6" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="45" y1="220" x2="225" y2="220" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="45,220 47,219.4 47,220.6" fill="#0b5fa5"/>
+<polygon points="225,220 223,220.6 223,219.4" fill="#0b5fa5"/>
+<text x="135" y="218.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal">720</text>
+<line x1="227" y1="24.4" x2="234.6" y2="24.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="227" y1="205" x2="234.6" y2="205" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="232" y1="24.4" x2="232" y2="205" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="232,24.4 232.6,26.4 231.4,26.4" fill="#0b5fa5"/>
+<polygon points="232,205 231.4,203 232.6,203" fill="#0b5fa5"/>
+<text x="235" y="114.7" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.9" fill="#0b5fa5" text-anchor="middle" font-weight="normal" transform="rotate(-90 235 114.7)">722.3</text>
+<line x1="53" y1="28" x2="53" y2="13.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="132" y1="28" x2="132" y2="13.4" stroke="#0b5fa5" stroke-width="0.16" stroke-linecap="butt"/>
+<line x1="53" y1="16" x2="132" y2="16" stroke="#0b5fa5" stroke-width="0.22" stroke-linecap="butt"/>
+<polygon points="53,16 55,15.4 55,16.6" fill="#0b5fa5"/>
+<polygon points="132,16 130,16.6 130,15.4" fill="#0b5fa5"/>
+<text x="92.5" y="14.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.6" fill="#0b5fa5" text-anchor="middle" font-weight="normal">Ø316</text>
+<text x="268" y="40" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="3.6500000000000004" fill="#1b1b1b" text-anchor="start" font-weight="bold">加工说明</text>
+<text x="268" y="45.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 外框 720 × 722.3，比障板四周小 2mm。</text>
+<text x="268" y="50.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 4 个 Ø316 孔：喇叭法兰 Ø310 从孔中穿出，</text>
+<text x="268" y="55" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">　孔边与喇叭留 3mm 间隙，不能接触。</text>
+<text x="268" y="59.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 8 个 Ø10 磁铁位（蓝圈）：在框**背面**钻</text>
+<text x="268" y="64.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">　Ø12 × 深 3.5 浅坑，环氧胶粘 Ø10×3 钕磁铁，</text>
+<text x="268" y="68.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">　磁极方向统一；障板正面同位置拧 M4 铁螺丝。</text>
+<text x="268" y="73.4" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">　这样网罩正面无螺丝，喷涂后外观干净。</text>
+<text x="268" y="78" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 贴布：网布从中心向外拉紧贴在框正面，</text>
+<text x="268" y="82.6" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">　四边回包 15mm，白乳胶/喷胶固定，吹风机收边。</text>
+<text x="268" y="87.2" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 布纹方向保持竖直，斜纹会显歪。</text>
+<text x="268" y="91.8" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.85" fill="#1b1b1b" text-anchor="start" font-weight="normal">• 网罩框外沿做 R3 小圆角，喷同色漆。</text>
+<polygon points="280,200 370,200 370,109.72 280,109.72" fill="none" stroke="#808080" stroke-width="0.3" stroke-linejoin="round"/>
+<circle cx="303.75" cy="176.18" r="19.75" fill="none" stroke="#808080" stroke-width="0.2"/>
+<circle cx="346.25" cy="176.18" r="19.75" fill="none" stroke="#808080" stroke-width="0.2"/>
+<circle cx="303.75" cy="133.54" r="19.75" fill="none" stroke="#808080" stroke-width="0.2"/>
+<circle cx="346.25" cy="133.54" r="19.75" fill="none" stroke="#808080" stroke-width="0.2"/>
+<text x="325" y="206" font-family="'PingFang SC','Hiragino Sans GB','Microsoft YaHei','Noto Sans CJK SC',sans-serif" font-size="2.4" fill="#808080" text-anchor="middle" font-weight="normal">装好后正面示意（网布已绷好）</text>
+</svg>
